@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #34b7a7;
+  color: #a552a4;
   text-decoration: none;
 }
 
 a:hover {
-  color: #51cdbe;
+  color: #6d2a59;
   text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #ffffff;
+  background: #d38aba;
 }
 
 #preloader:before {
@@ -63,7 +63,7 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #34b7a7;
-  border-top-color: #dcf5f2;
+  border-top-color: #d38aba;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #34b7a7;
+  background: #d38aba;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -99,13 +99,13 @@ h6 {
 
 .back-to-top i {
   font-size: 24px;
-  color: #fff;
+  color: #d38aba;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #49cbbb;
-  color: #fff;
+  background: #d38aba;
+  color: #d38aba;
 }
 
 .back-to-top.active {
@@ -117,7 +117,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #e9e8e6;
+  background:#d38aba;
   box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
   z-index: 997;
   padding: 15px 0;
